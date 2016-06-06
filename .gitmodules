@@ -1,0 +1,3 @@
+[submodule "nndep"]
+	path = nndep
+	url = git@github.com:zhouh/StructNNDepParser.git
